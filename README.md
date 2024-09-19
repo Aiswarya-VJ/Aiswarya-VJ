@@ -13,7 +13,7 @@ I am a Software Developer at Liveperson-Acesoft | Intern
                     </p>
                   
                   
-              ### Socials
+<b>My GitHub Stats</b>          
 <p align="left">
   <a href="https://www.github.com/Aiswarya-VJ" target="_blank" rel="noreferrer">
     <picture>
@@ -30,7 +30,7 @@ I am a Software Developer at Liveperson-Acesoft | Intern
     </picture>
   </a>
 </p>
-### Badges
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Aiswarya-VJ">
