@@ -13,7 +13,7 @@ I am a Software Developer at Liveperson-Acesoft | Intern
                     </p>
                   
                   
-<b>My GitHub Stats</b>          
+<b>Connect with me</b>          
 <p align="left">
   <a href="https://www.github.com/Aiswarya-VJ" target="_blank" rel="noreferrer">
     <picture>
